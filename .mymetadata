@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="tfjy"
+  id="myeclipse.1531364401785"
+  context-root="/tfjy"
+  j2ee-spec="5.0"
+  archive="tfjy.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
